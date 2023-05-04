@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
+
+<p id="demo"></p>
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p>
+<a href="https://github.com/sanusanth">Visit Sanusanth</a>
+</center>
+</body>
+</html>
